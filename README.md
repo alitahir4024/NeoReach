@@ -16,8 +16,8 @@ Using NeoReach, brands can search, manage, and track influencers internally with
 
 ## Project Preview:
 
-[Neoreach](https://alitahir4024.github.io/NeoReach/)
+[Neoreach Website Clone](https://alitahir4024.github.io/NeoReach/)
 
 ## Official NeoReach Website:
 
-(http://www.neoreach.com/).
+[Official Neoreach Website](http://www.neoreach.com/)
